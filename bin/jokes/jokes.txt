@@ -1,0 +1,100 @@
+Peter(1);Alle Kinder stehen am abgrund, nur nicht Peter, der geht noch nen Meter.
+Sabine(1);Alle Kinder fahre mit der Straßenbahn, nur nicht Sabine, die liegt auf der Schiene.
+Sabine(2);Alle Kinder sitzen im Zug, außer Sabine, die liegt auf der Schiene.
+Alexander(1);Alle Kinder spielen mit Dynamit, nur nicht Alexander, den fetzt es aus einander.
+Renate(1);Alle Kinder rennen in den Bunker, außer Renate, die fängt die Granate.
+Abdul(1);Alle Kinder schwimmen im Meer, außer Abdul, der hängt noch im Klappstuhl.
+Jonas(1);Alle Kinder fahren von der Klassenfahrt nach Hause, außer Jonas, der schwimmt noch im Amazonas.
+Abdul(2);Alle Kinder rennen aus dem Kino, außer Abdul, der hängt noch im Klappstuhl.
+Susanne(1);Alle Kinder haben Hunger, außer Susanne, die liegt in der Pfanne.
+Anette(1);Alle Kinder fahren Fahrrad, außer Anette, die hängt an der Kette.
+Walter(1);Alle Kinder haben Angst vor dem Atomkrieg, nur nicht Walter, der sitzt am Schalter.
+Klaus(1);Alle Kinder fahren Achterbahn, außer Klaus, der fliegt raus.
+Hein(1);Alle Kinder schauen in die Schlucht, außer Hein, der fällt hinein. 
+Abdul(3);Alle kinder spielen am Strand,außer Abdul der hängt noch im Klappstuhl
+Gunther(1);Alle Kinder schauen hoch zum Galgen, nur nicht Gunther, der schaut runter.
+Bernd(1);Alle Kinder kamen auf die Welt, nur nicht Bernd, der wurde entfernt.
+Heiner(1);Allen steht das Wasser bis zum Hals, außer Heiner, der ist kleiner. 
+Malte(1);Alle Kinder machen eine Wanderung in den Gletscher, nur nicht Malte, der verschwand in der Spalte. 
+Hagen(1);Alle Kinder werden geliebt, außer Hagen, der wird geschlagen.
+Hasso(1);Alle Kinder beobachten Cowboys, nur nicht Hasso, der hängt im Lasso.
+Heinz(1);Alle Kinder bekommen ein Eis, nur nicht Heinz, der kriegt keins.
+Hein(2);Alle Kinder spielen mit dem Sand, nur nicht Hein, den gruben sie ein.
+Ruth(1);Alle Kinder sind kerngesund, nur nicht Ruth, die spuckt Blut.
+Klaus(2);Alle Kinder schauen zum Fleischwolf, nur nicht Klaus, der kommt dort raus
+Lino(1);Alle Kinder finden den T-Rex cool,nur nicht Lino, der kämpft mit dem Dino. 
+Hagen(2);Alle Kinder gehen zum Friedhof, nur nicht Hagen, der wird getragen.
+Natan(1);Alle Kinder glauben an Gott. Nur nicht Natan, der glaubt an Satan.
+Kent(1);Alle Kinder sitzen am Lagerfeuer, nur nicht Kent, der brennt.
+John(1);Alle Kinder sind weich gefallen – ausser John, der fiel auf Beton.
+Hagen(3);Alle Kinder spielen mit dem Messer, nur nicht Hagen, der hat es im Magen.
+Lisa(1);Alle Kinder mögen Römer, nur nicht Lisa, die mag Pariser.
+Kurt(1);Alle Kinder schauen auf das Unfallauto, nur nicht Kurt, der hängt im Gurt.
+Henner(1);Alle Kinder sind heute erfolgreich, nur nicht Henner, der wurde ein Penner.
+Ute(1);Alle Kinder bekommen Geschenke, nur nicht Ute, die bekommt die Rute.
+Cliff(1);Alle Kinder springen ins Wasser, nur nicht Cliff, der klebt am Riff.
+Christine(1);Alle Kinder schwimmen im Stausee, nur nicht Christine, die taucht zur Turbine.
+Rick(1);Alle Kinder warten auf den Henker nur nicht Rick, der hängt am Strick.
+Rainer(1);Alle Kinder spielen zusammen, bis auf Rainer, den mag keiner.
+Peps(1);Alle Kinder rauchen Marlboro, ausser Peps, der hat schon Krebs.
+Knauf(1);Alle Kinder schauen runter ins Grab. Nur nicht Knauf, der guckt hinauf.
+Michel(1);Alle Kinder laufen im Kornfeld, außer Michel, er geriet in die Sichel.
+Adelheid(1);Alle blieben vor dem Abgrund stehen, nur nicht Adelheid, die ging zu weit.
+Hella(1);Alle kinder sitzen im Flugzeug außer Hella die hängt im Propeller
+Jan(1);Alle Kinder gehen über die Baustelle, nur nicht Jan, der hängt am Kran.
+Ulli(1);Alle Kinder umgehen das Loch, nur nicht Ulli, die verschwindet im Gulli.
+Sybille(1);Alle Kinder lachen, nur nicht Sybille, die vergaß die Pille.
+Frigite(1);Alle kinder sitzen ums Lagerfeuer ,nur nicht Frigite, die sitzt in der mitte.
+Frank(1);Alle Kinder schlafen im Bett, nur nicht Frank, der schläft auf der Bank.
+Susanne(3);Alle Kinder fahren Fahrrad, nur nicht Susanne, die hat eine Panne.
+Bobby(1);Alle Kinder langweilen sich zu Tode, nur nicht Bobby, der hat ein Hobby.
+Agathe(1);Alle Kinder laufen aus dem Wald, nur nicht Agathe, die fängt die Granate.
+Anette(2);Alle Kinder trinken aus der Flasche, außer Annette, die trinkt aus der Toilette.
+Abdul(4);Alle Kinder rennen aus dem brennenden Kino, außer Abdul, der klemmt im Klappstuhl.
+Bill(1);Alle Kinder sammeln Holz für das Feuer, außer Bill, der liegt auf dem Grill.
+Bianca(1);Alle Kinder bekommen Schwimmwesten, außer Bianca die kriegt den Anker.
+Brigitte(1);Alle Kinder sitzen ums Feuer, nur nicht Brigitte, die sitzt in der Mitte.
+Clint(1);Alle Kinder bleiben bei Rot stehen, nur nicht Clint, der ist blind.
+Johnny(1);Alle Kinder schlafen im Bett, außer Conny, die schläft mit Johnny.
+Gunther(2);Alle Kinder rennen vor dem Panzer weg, außer Gunther, der liegt drunter.
+Hagen(4);Alle Kinder bewundern die Schrottpresse, nur nicht Hagen, der sitzt noch im Wagen.
+Hein(3);Alle Kinder spielen Metzger, nur nicht Hein, der spielt das Schwein.
+Jens(1);Alle Kinder gehen über die Straße, nur nicht Jens, der klebt am Benz.
+Jürgen(1);Allen Kinder hat´s geschmeckt, außer Jürgen, der muss würgen.
+Jutta(1);Alle Kinder besichtigen Löwen im Zoo, außer Jutta, die ist das Futter.
+Marcel(1);Alle Kinder stehen vor einer Wand, außer Marcel, der war zu schnell.
+Marianne(1);Alle Kinder singen Weihnachtslieder, außer Marianne, die hängt an der Tanne.
+Rainer(2);Allen Kindern steht das Wasser bis zum Hals, nur nicht Rainer, der war kleiner.
+Renate(2);Alle Kinder laufen weg, nur nicht Renate, die fängt die Granate.
+Schröder(1);Alle Kinder spielen mit dem Hai, nur nicht Schröder, der war Köder.
+Steffen(1);Alle Kinder schmeißen mit Steinen, nur nicht Steffen, den wollten sie treffen.
+Ulli(2);Alle Kinder spielen auf der Straße, nur nicht Uli, der sitzt im Gulli.
+Vera(1);Alle Kinder rennen übers Eis, nur nicht Vera, die war schwerer.
+Ole(1);Alle Kinder gehen über die Straße, nur nicht Ole, der gräbt nach Kohle. 
+Gunther(3);Alle Kinder klettern auf den Baum, nur nicht Gunter, der fällt runter
+Mopel(1);Alle Kinder laufen über die Straße, außer Mopel, der klebt am Opel.
+Mona(1);Alle Kinder rennen vor Corona weg, außer Mona, die hat schon Corona
+Nick(1);Alle Kinder springen durch den Ring, außer Nick, der ist zu dick.
+Mika(1);Alle Kinder zocken Pokemon Go, außer Mika, er kuckt Kika.
+Till(1);Alle Kinder sind im Wilden Westen, außer Till, der trifft Wild Bill.
+Fritz(1);Alle Kinder erzählen sich Witze, nur nicht Fritz, er ist der Witz.
+Luke(1);Alle Kinder fahren mit dem Auto in den Urlaub außer Luke, der bucht sich einen Billigflug.
+Ole(2);Alle Kinder fahren mit einer Dampflok außer Ole, der frisst die Kohle.
+Peter(2);Alle Kinder springen über die Schlucht außer Peter, dem fehlt noch ein Meter.
+Peer(1);Alle Kinder hassen Zyankali, nur nicht Peer, der stellt es her.
+Annegret(1);Alle Kinder lieben Peters Piranhas, nur nicht Annegret, die in der Wanne steht.
+Christiane(1);Alle Kinder schwingen von Baum zu Baum, nur nicht Christiane, die verfehlt die Liane.
+Isabell(1);Alle Kinder bremsten vor dem Bahndamm, nur nicht Isabell, die war zu schnell.
+Kunigunde(1);Alle Kinder schwimmen, nur die Kunigunde taucht schon seit einer Stunde.
+Gert(1);Alle Kinder spielen Ritter, nur nicht Gerd, in dem steckt ein Schwert.
+Clint(2);Alle Kinder halten vor der roten Ampel, nur nicht Clint, der ist farbenblind.
+Heinz(2);Alle Kinder spielen mit dem Holzbein, nur nicht Heinz, denn es ist seins.
+Inge(1);Alle Kinder stehen um den Baum herum, nur nicht Inge, die hängt in der Schlinge.
+Jochen(1);Alle Kinder decken den Tisch, nur nicht Jochen, den tun sie kochen.
+Agathe(2);Alle Kinder fürchten sich vor Udo, nur nicht Agathe, die kann Karate.
+Anke(1);Alle Kinder spenden für Behinderte, nur nicht Anke, die sagt Danke.
+Atze(1);Alle Kinder werfen mit Bällen, nur nicht Atze, der wirft 'ne Katze.
+Melinda(1);Alle Kinder spielen auf der Wiese, nur nicht Melinda, die kriegt Kinder.
+Sybille(2);Alle Kinder kriegen Kinder, nur nicht Sybille, die nimmt die Pille.
+Britta(1);Alle Kinder klauen Geld, nur nicht Britta, die sitzt hinter Gitter.
+Bob(1);Alle Kinder können lange schlafen, nur nicht Bob, der hat einen Job.
