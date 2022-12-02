@@ -1,0 +1,349 @@
+import java.awt.event.ActionEvent;
+import java.awt.event.ActionListener;
+
+import javax.swing.AbstractButton;
+import javax.swing.JButton;
+import javax.swing.JFrame;
+import javax.swing.JLabel;
+import javax.swing.JPanel;
+
+public class Buttons2 extends JFrame implements ActionListener {
+	private  JButton button21;
+	JLabel label;
+	JPanel panel;
+	private JButton button22;
+	private AbstractButton button23;
+    
+	
+	public void ButtonsZ2(JPanel panel, JLabel label) {
+	  //button-21
+    button21 = new JButton("Ruth(1)");
+  	((AbstractButton) button21).addActionListener(this);
+  	panel.add(button21);
+  //button-22
+    button22 = new JButton("Susanne(2)");
+  	((AbstractButton) button22).addActionListener(this);
+  	panel.add(button22);
+  	 //button-23
+    button23 = new JButton("Hein(2)");
+  	((AbstractButton) button23).addActionListener(this);
+  	panel.add(button23);
+	}
+
+	@Override
+	public void actionPerformed(ActionEvent ae) {
+	if(ae.getSource() == this.button21) {
+		if(Buttons.TextOff  == false) {
+		label.setText(Buttons.getStatusText("Alle Kinder sind kerngesund, nur nicht Ruth, die spuckt Blut."));
+			}
+			if (Buttons.TextOff == false) {
+				Buttons buttons = new Buttons(null);
+				buttons.play(button21);
+			}else if (ae.getSource() == this.button22) {
+				if(Buttons.TextOff  == false) {
+					label.setText(Buttons.getStatusText("Alle Kinder sind kerngesund, nur nicht Ruth, die spuckt Blut."));
+						}
+						if (Buttons.TextOff == false) {
+							Buttons buttons = new Buttons(null );
+							buttons.play(button21);
+						}
+		
+			}else if(ae.getSource() == this.button23) {
+				if(TextOff  == false) {
+					label.setText(getStatusText("Alle Kinder spielen mit dem Sand, nur nicht Hein, den gruben sie ein."));
+					}
+					
+					if (TextOff  == false) {
+						Buttons buttons = new Buttons(null);
+						buttons.play(button23);
+					}
+				}
+			
+			
+			}						
+		
+	}
+}
+//		button1 = new JButton("Peter(1)");
+//		((AbstractButton)button1).addActionListener(this);
+//		panel.add(button1);
+//		
+////button-2
+//		button2 = new JButton("Sabine(1)");
+//		((AbstractButton) button2).addActionListener(this);
+//		panel.add(button2);
+//	
+////button-3
+//	    button3 = new JButton("Alexander(1)");
+//	    ((AbstractButton) button3).addActionListener(this);
+//	    panel.add(button3);	
+////button-4
+//	    button4 = new JButton("Sabine(2)");
+//	    ((AbstractButton) button4).addActionListener(this);
+//	    panel.add(button4);	
+//		
+////button-5
+//		button5 = new JButton("Renate(1)");
+//		((AbstractButton) button5).addActionListener(this);
+//		panel.add(button5);	
+////button-6
+//		button6 = new JButton("Jonas(1)");
+//		((AbstractButton) button6).addActionListener(this);
+//		panel.add(button6);		
+////button-7
+//	    button7 = new JButton("Abdul(1)");
+//	    ((AbstractButton) button7).addActionListener(this);
+//	    panel.add(button7);		
+////button-8
+//	    button8 = new JButton("Abdul(2)");
+//	    ((AbstractButton) button8).addActionListener(this);
+//	    panel.add( button8);
+////button-9
+//	  	button9 = new JButton("Klaus(1)");
+//	  	((AbstractButton) button9).addActionListener(this);
+//	  	panel.add(button9);	  
+////button-10
+//	    button10 = new JButton("Anette(1)");
+//	  	((AbstractButton) button4).addActionListener(this);
+//	  	panel.add(button10);	  	
+//	  //button-11
+//	    button11 = new JButton("Walter(1)");
+//	  	((AbstractButton) button11).addActionListener(this);
+//	  	panel.add(button11);  	
+//	  //button-12
+//	    button12 = new JButton("Klaus(2)");
+//	  	((AbstractButton) button12).addActionListener(this);
+//	  	panel.add(button12);
+//	  //button-13
+//	    button13 = new JButton("Bernd(1)");
+//	  	((AbstractButton) button13).addActionListener(this);
+//	  	panel.add(button13);	
+//	  //button-14
+//	    button14 = new JButton("Heiner(1)");
+//	  	((AbstractButton) button14).addActionListener(this);
+//	  	panel.add(button14);
+//	  	 //button-15
+//	    button15 = new JButton("Malte(1)");
+//	  	((AbstractButton) button15).addActionListener(this);
+//	  	panel.add(button15);
+//	  //button-16
+//	    button16 = new JButton("Hagen(1)");
+//	  	((AbstractButton) button16).addActionListener(this);
+//	  	panel.add(button16);	
+//	  //button-17
+//	    button17 = new JButton("Hasso(1)");
+//	  	((AbstractButton) button17).addActionListener(this);
+//	  	panel.add(button17);
+//	  //button-18
+//	    button18 = new JButton("Klaus(3)");
+//	  	((AbstractButton) button18).addActionListener(this);
+//	  	panel.add(button18);
+//	  //button-19
+//	    button19 = new JButton("Heinz(1)");
+//	  	((AbstractButton) button19).addActionListener(this);
+//	  	panel.add(button19);
+//	  //button-20
+//	    button20 = new JButton("Hein(1)");
+//	  	((AbstractButton) button20).addActionListener(this);
+//	  	panel.add(button20 ,"wrap");
+//	Buttons2 buttons2 = new Buttons2();
+//	buttons2.ButtonsZ2(panel, label);  	
+//			@Override
+//			public void actionPerformed(ActionEvent ae) {
+//				if (ae.getSource() == this.button1) {
+//					if(TextOff == false) {
+//						label.setText(getStatusText("Alle Kinder stehen am abgrund, nur nicht Peter, der geht noch nen Meter."));
+//					}
+//					if (TTSOff == false) {
+//						play(button1);
+//					}
+//
+//				} else if (ae.getSource() == this.button2) {
+//					if(TextOff == false) {
+//					label.setText(getStatusText("Alle Kinder fahre mit der Straßenbahn, nur nicht Sabine, die liegt auf der Schiene."));	
+//					}
+//					if (TTSOff == false) {
+//						play(button2);
+//					}
+//
+//				}else if(ae.getSource() == this.button3) {
+//					if(TextOff  == false) {
+//					label.setText(getStatusText("Alle Kinder spielen mit Dynamit, nur nicht Alexander, den fetzt es aus einander."));
+//					}
+//					
+//					if (TTSOff == false) {
+//						play(button3);
+//					}
+//				}else if(ae.getSource() == this.button4) {
+//					if(TextOff  == false) {
+//						label.setText(getStatusText("Alle Kinder sitzen im Zug, außer Sabine, die liegt auf der Schiene."));
+//					}
+//					
+//					if (TTSOff == false) {
+//						play(button4);
+//					}
+//				}else if(ae.getSource() == this.button5) {
+//					if(TextOff  == false) {
+//						label.setText(getStatusText("Alle Kinder rennen in den Bunker, außer Renate, die fängt die Granate."));
+//					}
+//					
+//					if (TTSOff == false) {
+//						play(button5);
+//					}
+//
+//			}else if(ae.getSource() == this.button6) {
+//				if(TextOff  == false) {
+//					label.setText(getStatusText("Alle Kinder fahren von der Klassenfahrt nach Hause, außer Jonas, der schwimmt noch im Amazonas."));
+//				}
+//				
+//				if (TTSOff == false) {
+//					play(button6);
+//				}
+//			}else if(ae.getSource() == this.button7) {
+//				if(TextOff  == false) {
+//					label.setText(getStatusText("Alle Kinder schwimmen im Meer, außer Abdul, der hängt noch im Klappstuhl."));
+//				}
+//				
+//				if (TTSOff == false) {
+//					play(button7);
+//				}
+//			
+//			}else if(ae.getSource() == this.button8) {
+//				if(TextOff  == false) {
+//					label.setText(getStatusText("Alle Kinder rennen aus dem Kino, außer Abdul, der hängt noch im Klappstuhl. "));
+//				}
+//				
+//				if (TTSOff == false) {
+//					play(button8);
+//				}
+//			
+//			}else if(ae.getSource() == this.button9) {
+//				if(TextOff  == false) {
+//					label.setText(getStatusText("Alle Kinder haben Hunger, außer Susanne, die liegt in der Pfanne. "));
+//				}
+//				
+//				if (TTSOff == false) {
+//					play(button9);
+//				}
+//			
+//			}else if(ae.getSource() == this.button10) {
+//				if(TextOff  == false) {
+//					label.setText(getStatusText("Alle Kinder fahren Fahrrad, außer Anette, die hängt an der Kette."));
+//				}
+//				
+//				if (TTSOff == false) {
+//					play(button10);
+//				}
+//			
+//			}else if(ae.getSource() == this.button11) {
+//				if(TextOff  == false) {
+//					label.setText(getStatusText("Alle Kinder haben Angst vor dem Atomkrieg, nur nicht Walter, der sitzt am Schalter."));
+//				}
+//				
+//				if (TTSOff == false) {
+//					play(button11);
+//				}
+//			
+//			}else if(ae.getSource() == this.button12) {
+//				if(TextOff  == false) {
+//					label.setText(getStatusText("Alle Kinder fahren Achterbahn, außer Klaus, der fliegt raus. "));
+//				}
+//				
+//				
+//				}else if(ae.getSource() == this.button13) {
+//					if(TextOff  == false) {
+//						label.setText(getStatusText("Alle Kinder kamen auf die Welt, nur nicht Bernd, der wurde entfernt."));
+//						}
+//						
+//						if (TTSOff == false) {
+//							play(button13);
+//						}
+//					}else if(ae.getSource() == this.button14) {
+//						if(TextOff  == false) {
+//							label.setText(getStatusText("Allen steht das Wasser bis zum Hals, außer Heiner, der ist kleiner. "));
+//							}
+//							
+//							if (TTSOff == false) {
+//								play(button14);
+//							}
+//						}else if(ae.getSource() == this.button15) {
+//							if(TextOff  == false) {
+//								label.setText(getStatusText("Alle Kinder machen eine Wanderung in den Gletscher, nur nicht Malte, der verschwand in der Spalte. "));
+//								}
+//								
+//								if (TTSOff == false) {
+//									play(button15);
+//								}
+//							}else if(ae.getSource() == this.button16) {
+//								if(TextOff  == false) {
+//									label.setText(getStatusText("Alle Kinder werden geliebt, außer Hagen, der wird geschlagen."));
+//															
+//									}
+//									
+//									if (TTSOff == false) {
+//										play(button16);
+//										
+//									}
+//								}else if(ae.getSource() == this.button17) {
+//									if(TextOff  == false) {
+//										label.setText(getStatusText("Alle Kinder beobachten Cowboys, nur nicht Hasso, der hängt im Lasso."));
+//										}
+//										
+//										if (TTSOff == false) {
+//											play(button17);
+//										}
+//									}else if(ae.getSource() == this.button18) {
+//										if(TextOff  == false) {
+//											label.setText(getStatusText("Alle Kinder schauen zum Fleischwolf, nur nicht Klaus, der kommt dort raus"));
+//											}
+//											
+//											if (TTSOff == false) {
+//												play(button18);
+//											}
+//										}else if(ae.getSource() == this.button19) {
+//											if(TextOff  == false) {
+//												label.setText(getStatusText("Alle Kinder bekommen ein Eis, nur nicht Heinz, der kriegt keins. "));
+//												}
+//												
+//												if (TTSOff == false) {
+//													play(button19);
+//												}
+//												}else if(ae.getSource() == this.button20) {
+//													if(TextOff  == false) {
+//														label.setText(getStatusText("Alle Kinder schauen in die Schlucht, außer Hein, der fällt hinein. "));
+//														}
+//														
+//														if (TTSOff == false) {
+//															play(button20);
+//														}
+//																			}
+//			}
+//			
+//			
+//			
+//			
+//			
+//			
+//
+//			public  void play(AbstractButton button) {
+//				button.setEnabled(false);
+//				
+//						w.setCursor(WAIT);
+//					
+//				SwingUtilities.invokeLater(new Runnable() {
+//					 
+//					@Override
+//					public void run() {
+//						String speech = button.getText();
+//						ttsLoader ttsLoader = new ttsLoader();
+//						ttsLoader.load(speech);
+//						button.setEnabled(true);
+//						w.setCursor(DEFAULT);
+//					}
+//				});		
+/*
+		Scrollbar scroll = new Scrollbar();
+		scroll.setVisible(true);
+		pane.add(scroll, BorderLayout.EAST);
+		*/
+
