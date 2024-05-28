@@ -98,3 +98,4 @@ Melinda(1);Alle Kinder spielen auf der Wiese, nur nicht Melinda, die kriegt Kind
 Sybille(2);Alle Kinder kriegen Kinder, nur nicht Sybille, die nimmt die Pille.
 Britta(1);Alle Kinder klauen Geld, nur nicht Britta, die sitzt hinter Gitter.
 Bob(1);Alle Kinder können lange schlafen, nur nicht Bob, der hat einen Job.
+Roland(1);Alle Kinder springen vom Beckenrand nur nicht Roland der springt vom Klorand.
