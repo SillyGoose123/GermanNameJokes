@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Main-Class: Main
+Class-Path: jaco-mp3-player-0.9.3.jar
+

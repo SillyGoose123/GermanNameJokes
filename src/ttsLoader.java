@@ -1,30 +1,23 @@
+import java.io.*;
+import java.net.URL;
 
+import jaco.mp3.player.MP3Player;
 
-	
-	import java.io.File;
-
-	
-	import jaco.mp3.player.MP3Player;
 public class ttsLoader {
-	    
 
-		public void load(String speech) {
 
-			        try {
+    public void load(String speech) {
 
-			            File f = new File("sources/tts/" + speech + ".mp3");
+        try {
+            MP3Player mp3Player = new MP3Player(getClass().getResource("tts/" + speech + ".mp3").toURI().toURL());
 
-			            MP3Player mp3Player = new MP3Player(f);
-			            mp3Player.play();
+            mp3Player.play();
 
-			            while (!mp3Player.isStopped()) {
-			                
-			            }
-			        } catch (Exception e) {
-			            System.err.println(e.getMessage());
-			        }
-			    }
-		}
+        } catch (Exception e) {
+            System.err.println(e);
+        }
+    }
+}
 		
 
 

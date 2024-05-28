@@ -1,0 +1,12 @@
+<component name="ArtifactManager">
+  <artifact name="GermanNameJokes:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/GermanNameJokes_jar</output-path>
+    <root id="root">
+      <element id="archive" name="GermanNameJokes.jar">
+        <element id="module-output" name="GermanNameJokes" />
+        <element id="dir-copy" path="$PROJECT_DIR$/bin" />
+      </element>
+      <element id="library" level="project" name="jaco-mp3-player-0.9.3" />
+    </root>
+  </artifact>
+</component>
